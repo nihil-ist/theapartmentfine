@@ -3,7 +3,7 @@
     "rules": "database.rules.json"
   },
   "hosting": {
-    "public": "dist/miniproyecto-tweb/browser",
+    "public": "dist/theapartmentfine/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
